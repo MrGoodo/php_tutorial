@@ -17,7 +17,7 @@ __Это пока обычная база, если потом кому нибу
 ```
 Данный код выведет в окно браузера строку: Hi, my name is Nick Kandelaki.
 
-2. # [PHP — P2 Comments.php](https://github.com/MrGoodo/php_tutorial/blob/master/PHP%20%E2%80%94%20P2%20Comments.php)
+2. # [PHP — P2 Comments](https://github.com/MrGoodo/php_tutorial/blob/master/PHP%20%E2%80%94%20P2%20Comments.php)
 
 __В данном блоке будет про оставление комментариев, с этим мы сейчас быстро разберемся, но сразу говорю, тут будет много текста, который нужно просто запомнить, комментарии очень просты.__
 
