@@ -195,7 +195,7 @@ __На самом деле, мы можем добавить любое цело
         $names = ['Nick', 'Frank', 'Luffy']; // Массив
 
         var_dump( (bool) "" ); // Не будет выведено, так как тут у нас пустая строка, и будет false
-        var_dump( (bool) "Nick" ); // Выведет true так как это обычный string(строка).
+        var_dump( (bool) "Nick" ); // Выведет true, так как это обычный string(строка).
 ```
 ```php
         var_dump( (bool) "false" );
